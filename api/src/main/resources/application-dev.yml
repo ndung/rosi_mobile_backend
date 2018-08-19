@@ -1,0 +1,11 @@
+basePath: http://localhost:7000
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/rosi
+    username: alif
+    password: katasandi
+    driver-class-name: com.mysql.jdbc.Driver
+debug: true
+
+
+
